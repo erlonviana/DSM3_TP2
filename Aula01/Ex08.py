@@ -1,0 +1,1 @@
+#Receba 3 numeros, faça a soma deles e calcule o valor da soma elevado ao quadrado
