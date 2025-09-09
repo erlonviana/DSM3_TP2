@@ -1,0 +1,7 @@
+Interface grafica
+
+Cada widget é um elemento da interface grafica
+Tkinter é o modulo mais utilizado
+Já vem com o Python
+
+Widget são elementos que fornece controles para o usuario interagir com o aplicativo

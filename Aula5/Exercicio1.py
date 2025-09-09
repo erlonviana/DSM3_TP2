@@ -1,0 +1,3 @@
+# Faça uma interface grafica para cadastro de clientes, com as informações
+# nome, email, telefone, endereço, mostre os dados em label, altere cores, letra, fundo...
+
