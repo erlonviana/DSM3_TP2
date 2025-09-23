@@ -1,0 +1,5 @@
+Obs. Para trabalharmos com imagens no
+Python precisamos instalar uma biblioteca
+acesse o cmd do Windows e digite:
+
+pip install Pillow
