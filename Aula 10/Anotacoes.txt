@@ -1,0 +1,2 @@
+Objeto: instancia de uma classe
+Classe: representa um gabarito para objetos
